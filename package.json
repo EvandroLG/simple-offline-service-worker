@@ -1,0 +1,9 @@
+{
+  "name": "simple-offline-service-worker",
+  "author": "evandrolg",
+  "Licence": "MIT",
+  "devDependencies": {
+    "connect": "^3.5.0",
+    "serve-static": "^1.11.1"
+  }
+}
